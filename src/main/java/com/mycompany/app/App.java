@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!--testing CI build";
+    private final String message = "Hello World!--Testing CI build";
 
     public App() {}
 
